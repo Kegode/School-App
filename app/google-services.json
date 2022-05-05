@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "770962822935",
+    "project_id": "tracking-app-347207",
+    "storage_bucket": "tracking-app-347207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770962822935:android:c762b5ccd3c425b086c952",
+        "android_client_info": {
+          "package_name": "com.example.schoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770962822935-n46r7853a9rdut52efp4rbt8v3345cqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfCwJzvSmkn11HqW6uxBittgKk8sbi0Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770962822935-n46r7853a9rdut52efp4rbt8v3345cqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770962822935:android:af80ce6606fcd9b486c952",
+        "android_client_info": {
+          "package_name": "com.school.busschooltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770962822935-n46r7853a9rdut52efp4rbt8v3345cqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfCwJzvSmkn11HqW6uxBittgKk8sbi0Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770962822935-n46r7853a9rdut52efp4rbt8v3345cqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
